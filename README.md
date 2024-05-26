@@ -282,11 +282,17 @@
   [1) 투기행위 인식률 개선](https://on-jungwoan.github.io/cctv/cctv_detect/)        
 
 
+
+
+
+
+
+
+
 <br>
 <br>
 
-
-# 업무지시 내용
+# 업무지시 내용 정리
 
 ----
 
@@ -297,8 +303,8 @@
     * [NL2SQL_난이도_중_ver.1.2.3.220901.pdf](NL2SQL_%EB%82%9C%EC%9D%B4%EB%8F%84_%EC%A4%91_ver.1.2.3.220901.pdf)
     
 <div align='center'>
-  <a href="https://on-jungwoan.github.io/til/TIL-09/#0901">
-    본문으로 돌아가기
+  <a href="#0901">
+    TIL로 돌아가기
   </a>
 </div>    
 
@@ -316,8 +322,8 @@
     * 기준 여러개일때는 무조건 무엇으로 통일
 
 <div align='center'>
-  <a href="https://on-jungwoan.github.io/til/TIL-09/#0902">
-    본문으로 돌아가기
+  <a href="#0902">
+    TIL로 돌아가기
   </a>
 </div>    
 
@@ -339,8 +345,8 @@
     * 테이블명 띄어쓰기
 
 <div align='center'>
-  <a href="https://on-jungwoan.github.io/til/TIL-09/#0905">
-    본문으로 돌아가기
+  <a href="#0905">
+    TIL로 돌아가기
   </a>
 </div>    
 
@@ -358,8 +364,8 @@
       > '-줄래', '주겠니', '어떻게 되니', '어떻게 돼', '검색해줘', '찾아볼까' 금지 -\> '알려줘', '찾아줘', '뭐야', '얼마야'는 가능
 
 <div align='center'>
-  <a href="https://on-jungwoan.github.io/til/TIL-09/#0906">
-    본문으로 돌아가기
+  <a href="#0906">
+    TIL로 돌아가기
   </a>
 </div>    
 
@@ -379,8 +385,8 @@
       > 2018 이후 : **\>= 20180101** OR **\> 20171231**
 
 <div align='center'>
-  <a href="https://on-jungwoan.github.io/til/TIL-09/#0907">
-    본문으로 돌아가기
+  <a href="#0907">
+    TIL로 돌아가기
   </a>
 </div>    
 
@@ -394,8 +400,8 @@
     * **제출 전 결과값이 나오는지 꼭!! 확인 후 제출**
 
 <div align='center'>
-  <a href="https://on-jungwoan.github.io/til/TIL-09/#0908">
-    본문으로 돌아가기
+  <a href="#0908">
+    TIL로 돌아가기
   </a>
 </div>    
 
@@ -426,8 +432,8 @@
       > 전체적으로 감독이 몇 명인지를 표현(수적인 표현)할때는 '총 감독' 라고 표현하면 됩니다
 
 <div align='center'>
-  <a href="https://on-jungwoan.github.io/til/TIL-09/#0913">
-    본문으로 돌아가기
+  <a href="#0913">
+    TIL로 돌아가기
   </a>
 </div>    
 
@@ -443,8 +449,8 @@
     * 표 정보를 잘 해석하여 모순이 되는 부분이 없는지 확인하기
 
 <div align='center'>
-  <a href="https://on-jungwoan.github.io/til/TIL-09/#0914">
-    본문으로 돌아가기
+  <a href="#0914">
+    TIL로 돌아가기
   </a>
 </div>    
 
@@ -454,8 +460,8 @@
     * 상 작업 시, **SELF** **JOIN 사용 중지** (최상은 그대로 유지)
 
 <div align='center'>
-  <a href="https://on-jungwoan.github.io/til/TIL-09/#0915">
-    본문으로 돌아가기
+  <a href="#0915">
+    TIL로 돌아가기
   </a>
 </div>    
 
@@ -472,8 +478,8 @@
     * 조회 가능한 컬럼으로 작성해서 제출해주시면 되겠습니다.
 
 <div align='center'>
-  <a href="https://on-jungwoan.github.io/til/TIL-09/#0920">
-    본문으로 돌아가기
+  <a href="#0920">
+    TIL로 돌아가기
   </a>
 </div>    
 
@@ -493,8 +499,8 @@
     - IN, NOT IN은 서브쿼리에서만
 
 <div align='center'>
-  <a href="https://on-jungwoan.github.io/til/TIL-09/#0921">
-    본문으로 돌아가기
+  <a href="#0921">
+    TIL로 돌아가기
   </a>
 </div>    
 
@@ -506,8 +512,8 @@
 
 
 <div align='center'>
-  <a href="https://on-jungwoan.github.io/til/TIL-09/#0923">
-    본문으로 돌아가기
+  <a href="#0923">
+    TIL로 돌아가기
   </a>
 </div>    
 
@@ -533,8 +539,8 @@
     * 자세한 화면 구성 등은 내일 다시 생각하면 될듯
 
 <div align='center'>
-  <a href="https://on-jungwoan.github.io/til/TIL-09/#0926">
-    본문으로 돌아가기
+  <a href="#0926">
+    TIL로 돌아가기
   </a>
 </div>    
 
@@ -547,8 +553,8 @@
 
 
 <div align='center'>
-  <a href="https://on-jungwoan.github.io/til/TIL-09/#0927">
-    본문으로 돌아가기
+  <a href="#0927">
+    TIL로 돌아가기
   </a>
 </div>    
 
@@ -563,8 +569,8 @@
     * 환경변수에 DISPLAY(localhost:0.0) 추가
 
 <div align='center'>
-  <a href="https://on-jungwoan.github.io/til/TIL-09/#0928">
-    본문으로 돌아가기
+  <a href="#0928">
+    TIL로 돌아가기
   </a>
 </div>    
 
@@ -580,8 +586,8 @@
     - -해줄래, -해주겠니 등을 사용 지양하고, 해라체, 해체 등 간결한 종결어미로 작성해야 합니다. '-해줘'라고 끝나는 종결어미로 사용하거나 얼마야, 뭐야 등 간결하게 사용하도록 해주세요.
 
 <div align='center'>
-  <a href="https://on-jungwoan.github.io/til/TIL-09/#0929">
-    본문으로 돌아가기
+  <a href="#0929">
+    TIL로 돌아가기
   </a>
 </div>    
 
@@ -600,8 +606,8 @@
     - 집계함수 단독사용 가능
     
 <div align='center'>
-  <a href="https://on-jungwoan.github.io/til/TIL-09/#0930">
-    본문으로 돌아가기
+  <a href="#0930">
+    TIL로 돌아가기
   </a>
 </div>    
 
@@ -615,8 +621,8 @@
     * 내일 오전에 코드리뷰
     
 <div align='center'>
-  <a href="https://on-jungwoan.github.io/til/TIL-10/#1004">
-    본문으로 돌아가기
+  <a href="#1004">
+    TIL로 돌아가기
   </a>
 </div>    
 
@@ -628,8 +634,8 @@
     * 필요없는 화각만 골라내면 될듯
     
 <div align='center'>
-  <a href="https://on-jungwoan.github.io/til/TIL-10/#1005">
-    본문으로 돌아가기
+  <a href="#1005">
+    TIL로 돌아가기
   </a>
 </div>    
 
@@ -640,8 +646,8 @@
 ![image](https://user-images.githubusercontent.com/84084372/194497492-8f340c5f-0f14-47f4-a982-d31fd5ed1dc7.png)
 
 <div align='center'>
-  <a href="https://on-jungwoan.github.io/til/TIL-10/#1006">
-    본문으로 돌아가기
+  <a href="#1006">
+    TIL로 돌아가기
   </a>
 </div>    
 
@@ -657,8 +663,8 @@
 ```
 
 <div align='center'>
-  <a href="https://on-jungwoan.github.io/til/TIL-10/#1007">
-    본문으로 돌아가기
+  <a href="#1007">
+    TIL로 돌아가기
   </a>
 </div>    
 
@@ -671,8 +677,8 @@
 ```
 
 <div align='center'>
-  <a href="https://on-jungwoan.github.io/til/TIL-10/#1011">
-    본문으로 돌아가기
+  <a href="#1011">
+    TIL로 돌아가기
   </a>
 </div>    
 
@@ -684,8 +690,8 @@
 ```
 
 <div align='center'>
-  <a href="https://on-jungwoan.github.io/til/TIL-10/#1012">
-    본문으로 돌아가기
+  <a href="#1012">
+    TIL로 돌아가기
   </a>
 </div>    
 
@@ -698,8 +704,8 @@
 ```
 
 <div align='center'>
-  <a href="https://on-jungwoan.github.io/til/TIL-10/#1013">
-    본문으로 돌아가기
+  <a href="#1013">
+    TIL로 돌아가기
   </a>
 </div>    
 
@@ -711,8 +717,8 @@
 ```
 
 <div align='center'>
-  <a href="https://on-jungwoan.github.io/til/TIL-10/#1014">
-    본문으로 돌아가기
+  <a href="#1014">
+    TIL로 돌아가기
   </a>
 </div>    
 
@@ -726,8 +732,8 @@
 ```
 
 <div align='center'>
-  <a href="https://on-jungwoan.github.io/til/TIL-10/#1017">
-    본문으로 돌아가기
+  <a href="#1017">
+    TIL로 돌아가기
   </a>
 </div>    
 
@@ -739,8 +745,8 @@
 ```
 
 <div align='center'>
-  <a href="https://on-jungwoan.github.io/til/TIL-10/#1018">
-    본문으로 돌아가기
+  <a href="#1018">
+    TIL로 돌아가기
   </a>
 </div>   
 
@@ -752,8 +758,8 @@
 ```
 
 <div align='center'>
-  <a href="https://on-jungwoan.github.io/til/TIL-10/#1019">
-    본문으로 돌아가기
+  <a href="#1019">
+    TIL로 돌아가기
   </a>
 </div>   
 
@@ -773,8 +779,8 @@
 ```
 
 <div align='center'>
-  <a href="https://on-jungwoan.github.io/til/TIL-10/#1021">
-    본문으로 돌아가기
+  <a href="#1021">
+    TIL로 돌아가기
   </a>
 </div>   
 
@@ -804,8 +810,8 @@ dumping TP에서 39장 탈락됨 -> 다시 채워넣기
 ```
 
 <div align='center'>
-  <a href="https://on-jungwoan.github.io/til/TIL-10/#1024">
-    본문으로 돌아가기
+  <a href="#1024">
+    TIL로 돌아가기
   </a>
 </div>   
 
@@ -821,8 +827,8 @@ model 돌리는 코드 밑에 PyQT를 연결하는 작업 수행
 ```
 
 <div align='center'>
-  <a href="https://on-jungwoan.github.io/til/TIL-10/#1026">
-    본문으로 돌아가기
+  <a href="#1026">
+    TIL로 돌아가기
   </a>
 </div>   
 
@@ -837,8 +843,8 @@ model 돌리는 코드 밑에 PyQT를 연결하는 작업 수행
 ```
 
 <div align='center'>
-  <a href="https://on-jungwoan.github.io/til/TIL-10/#1028">
-    본문으로 돌아가기
+  <a href="#1028">
+    TIL로 돌아가기
   </a>
 </div>   
 
@@ -857,8 +863,8 @@ model 돌리는 코드 밑에 PyQT를 연결하는 작업 수행
 ```
     
 <div align='center'>
-  <a href="https://on-jungwoan.github.io/til/TIL-11/#1108">
-    본문으로 돌아가기
+  <a href="#1108">
+    TIL로 돌아가기
   </a>
 </div>    
 
@@ -878,8 +884,8 @@ model 돌리는 코드 밑에 PyQT를 연결하는 작업 수행
 ```
     
 <div align='center'>
-  <a href="https://on-jungwoan.github.io/til/TIL-11/#1109">
-    본문으로 돌아가기
+  <a href="#1109">
+    TIL로 돌아가기
   </a>
 </div>    
 
@@ -895,8 +901,8 @@ model 돌리는 코드 밑에 PyQT를 연결하는 작업 수행
 ```
     
 <div align='center'>
-  <a href="https://on-jungwoan.github.io/til/TIL-11/#1110">
-    본문으로 돌아가기
+  <a href="#1110">
+    TIL로 돌아가기
   </a>
 </div>    
 
@@ -917,8 +923,8 @@ model 돌리는 코드 밑에 PyQT를 연결하는 작업 수행
 ```
     
 <div align='center'>
-  <a href="https://on-jungwoan.github.io/til/TIL-11/#1114">
-    본문으로 돌아가기
+  <a href="#1114">
+    TIL로 돌아가기
   </a>
 </div>    
 
@@ -931,8 +937,8 @@ model 돌리는 코드 밑에 PyQT를 연결하는 작업 수행
 ```
     
 <div align='center'>
-  <a href="https://on-jungwoan.github.io/til/TIL-11/#1118">
-    본문으로 돌아가기
+  <a href="#1118">
+    TIL로 돌아가기
   </a>
 </div>    
 
