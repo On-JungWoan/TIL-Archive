@@ -1,4 +1,4 @@
-# TIL Archieve
+# TIL Archive
 
 ```
 구글 애드센스 정책으로 인해 블로그에 올렸던 TIL 내용을 깃허브로 옮깁니다.
@@ -21,19 +21,15 @@
 
 
 
-
-
 <br>
 <br>
 <br>
 
 # 2022. 11&12월 TIL
 
-<br>
+## ✍ 학습내용 정리
 
-# ✍ 학습내용 정리
-
-## Computer Vision
+### Computer Vision
 
 * [[CS231n]Image Classification](https://on-jungwoan.github.io/dl_study/cs231n_2/)    
 * [[CS231n]Loss Functions and Optimization](https://on-jungwoan.github.io/dl_study/cs231n_3/)              
@@ -43,7 +39,7 @@
 * [[CS231n]Training Neural Networks, Part Ⅱ](https://on-jungwoan.github.io/dl_study/cs231n_7/)
 * [[CS231n]CNN Architectures](https://on-jungwoan.github.io/dl_study/cs231n_9/)
 
-## Web
+### Web
 
 * [[JQuery]AJAX를 활용한 비동기적 데이터 교환](https://on-jungwoan.github.io/web/ajax/)
 * [[HTML, JavaScript]Input 태그 유효성 검사](https://on-jungwoan.github.io/web/test/)  
@@ -60,7 +56,7 @@
 * [[Jekyll]빌드 속도 최적화](https://on-jungwoan.github.io/blog/optim_jekyll/)        
 * [배포용 requirements.txt 생성 및 설치](https://on-jungwoan.github.io/web/export/)
 
-## Project
+### Project
 
 * [[뻐정] 프로젝트 개선사항(수정중)](https://on-jungwoan.github.io/bbeojung/bj_update2/)
 * [[뻐정] 프로젝트 최종 요약](https://on-jungwoan.github.io/bbeojung/bbeojung/)  
@@ -68,8 +64,8 @@
 <br>
 <br>
 
-# 🕮 TIL
-## \<1주차\>
+## 📚 TIL
+### \<1주차\>
   
 ### 11/01
 
@@ -103,7 +99,7 @@
 
 <br>  
 
-## \<2주차\>
+### \<2주차\>
 
 ### 11/07
 
@@ -156,7 +152,7 @@
 
 <br>  
 
-## \<3주차\>
+### \<3주차\>
 
 ### 11/14
 
@@ -190,7 +186,7 @@
 
 <br>  
 
-## \<4주차\>
+### \<4주차\>
 
 ### 11/21
 
@@ -234,7 +230,7 @@
 
 <br>  
 
-## \<5주차\>
+### \<5주차\>
 
 ### 11/28
 
@@ -267,11 +263,9 @@
 
 # <2022. 10월 TIL>
 
-<br>
+## ✍ 학습내용 정리
 
-# ✍ 학습내용 정리
-
-## Computer Vision
+### Computer Vision
 
 * [CUDA Stream](https://on-jungwoan.github.io/dl_optim/cuda_stream/)  
 * [Activation Function, Optimizer](https://on-jungwoan.github.io/dl_study/activation_opt/)
@@ -290,18 +284,18 @@
 * [1차 파인튜닝 모델 분석](https://on-jungwoan.github.io/cctv/md_speed/)  
 * [AI 개발 가이드 및 조언내용 정리](https://on-jungwoan.github.io/dl_study/summary/)  
 
-## ml
+### ml
 
 * [[toy_project] 아파트 실거래가 예측 (1)](https://on-jungwoan.github.io/toy_project/apartpred/) 
 * [[toy_project] 아파트 실거래가 예측 (2)](https://on-jungwoan.github.io/toy_project/apartpred2/)   
 
-## web
+### web
 
 * [[Github_Io]Jekyll 로컬에서 디버그 하는 법](https://on-jungwoan.github.io/blog/debug_jekyll/)  
 * [프로젝트 개요 정리](https://on-jungwoan.github.io/canvas/setting_proj/)    
 * [Django 템플릿에서 src, href에 변수 불러오는 법](https://on-jungwoan.github.io/web/get_var/)   
 
-## etc
+### etc
 
 * [argparse 사용법](https://on-jungwoan.github.io/python/argparse/) 
 * [[뻐정] 프로젝트 개선사항](https://on-jungwoan.github.io/bbeojung/change/)     
@@ -312,8 +306,8 @@
 <br>
 <br>
 
-# 🕮 TIL
-## \<1주차\>
+## 📚 TIL
+### \<1주차\>
 
 ### 10/04
 
@@ -359,7 +353,7 @@
   
 <br>  
   
-## \<2주차\>
+### \<2주차\>
 
 ### 10/11
 
@@ -422,7 +416,7 @@
 
 <br>  
   
-## \<3주차\>
+### \<3주차\>
 
 ### 10/17
 
@@ -484,7 +478,7 @@
 
 <br>  
   
-## \<4주차\>
+### \<4주차\>
 
 ### 10/24
 
@@ -550,11 +544,9 @@
 
 # <2022. 09월 TIL>
 
-<br>
+## ✍ 학습내용 정리
 
-# ✍ 학습내용 정리
-
-## DL
+### DL
 
 * [프로젝트 설명 / 실시간 영상 프레임 향상 최적화 기법](https://on-jungwoan.github.io/cctv/cctv/)
 * [Tensorflow 개념 및 메소드 정리](https://on-jungwoan.github.io/dl_study/about_tf/)
@@ -564,18 +556,18 @@
 * [검출정보 json에 저장 / BBOX 이미지 분리](https://on-jungwoan.github.io/cctv/cctv_json/)
 * [투기 행위 인식률 개선](https://on-jungwoan.github.io/cctv/cctv_detect/)
 
-## ML
+### ML
 
 * [치과 데이터 상관분석](https://on-jungwoan.github.io/ml/corr_analysis/)
 * [머신러닝의 개념과 종류](https://on-jungwoan.github.io/ml/about_ml/)
 
-## Web
+### Web
 
 * [개발블로그 css 수정](https://on-jungwoan.github.io/blog/change_theme/)
 * [상단 네비게이션바 수정 및 tease image 제거](https://on-jungwoan.github.io/blog/edit_navigation/)
 * [상단 네비게이션바 항목 수정 및 페이지 추가](https://on-jungwoan.github.io/blog/change_navigation/)
 
-## DB(SQL)
+### DB(SQL)
 
 * [SELF JOIN](https://on-jungwoan.github.io/etc/TIL_0905/)
 * [SQL 실행 순서](https://on-jungwoan.github.io/etc/TIL_0905_1/)
@@ -583,7 +575,7 @@
 * [ORDER BY 용어 정리](https://on-jungwoan.github.io/etc/TIL_0913/)
 * [MariaDB 기반 SQLGate](https://on-jungwoan.github.io/etc/TIL_0914/)
 
-## etc.
+### etc.
 
 * [__init__과 __call__의 차이, 예외처리 pass Keyword](https://on-jungwoan.github.io/python/init_call/)
 * [if `__name__` == '`__main__`'을 쓰는 이유](https://on-jungwoan.github.io/python/name_main/)
@@ -591,9 +583,9 @@
 <br>
 <br>
 
-# 🕮 TIL
+## 📚 TIL
 
-## \<1주차\>
+### \<1주차\>
 
 ### 09/01
 
@@ -618,7 +610,7 @@
 
 <br>
 
-## \<2주차\>
+### \<2주차\>
 
 ### 09/05
 
@@ -669,7 +661,7 @@
 
 <br>
 
-## \<3주차\>
+### \<3주차\>
 
 ### 09/13
 
@@ -705,7 +697,7 @@
   
 <br>
 
-## \<4주차\>
+### \<4주차\>
 
 ### 09/19
 
@@ -837,8 +829,6 @@
 <br>
 
 # 업무지시 내용 정리
-
-<br>
 
 # 9월
 ## 1주차
