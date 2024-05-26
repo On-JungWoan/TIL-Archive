@@ -1,11 +1,554 @@
-# TIL_old
+# TIL Archieve
+
+```
+구글 애드센스 정책으로 인해 블로그에 올렸던 TIL 내용을 깃허브로 옮깁니다.
+```
+
 
 <br>
 <br>
 
-# <2022 09월 TIL>
 
-----
+# Contens
+
+- [**2022 11&12월 TIL**](#2022-1112월-til)
+
+- [**2022 10월 TIL**](#2022-10월-til)
+
+- [**2022 9월 TIL**](#2022-09월-til)
+
+- [**업무지시 내용 정리**](#업무지시-내용-정리)
+
+
+
+
+
+<br>
+<br>
+<br>
+
+# 2022. 11&12월 TIL
+
+<br>
+
+# ✍ 학습내용 정리
+
+## Computer Vision
+
+* [[CS231n]Image Classification](https://on-jungwoan.github.io/dl_study/cs231n_2/)    
+* [[CS231n]Loss Functions and Optimization](https://on-jungwoan.github.io/dl_study/cs231n_3/)              
+* [[CS231n]Backpropagation and Neural Networks](https://on-jungwoan.github.io/dl_study/cs231n_4/)     
+* [[CS231n]Convolutional Neural Networks](https://on-jungwoan.github.io/dl_study/cs231n_5/)
+* [[CS231n]Training Neural Networks, Part I](https://on-jungwoan.github.io/dl_study/cs231n_6/)
+* [[CS231n]Training Neural Networks, Part Ⅱ](https://on-jungwoan.github.io/dl_study/cs231n_7/)
+* [[CS231n]CNN Architectures](https://on-jungwoan.github.io/dl_study/cs231n_9/)
+
+## Web
+
+* [[JQuery]AJAX를 활용한 비동기적 데이터 교환](https://on-jungwoan.github.io/web/ajax/)
+* [[HTML, JavaScript]Input 태그 유효성 검사](https://on-jungwoan.github.io/web/test/)  
+* [[CSS] 폰트 관련 속성 정리](https://on-jungwoan.github.io/web/css_text/)
+* [[Django] Views.py 분리](https://on-jungwoan.github.io/web/split/)  
+* [[Django]secret 관리](https://on-jungwoan.github.io/web/secret/)
+* [[Django] 이미 존재하는 DB 연동 by inspectdb](https://on-jungwoan.github.io/web/inspectdb/)  
+* [[Django]DRF(Django Rest Framework) 듀토리얼](https://on-jungwoan.github.io/web/drf/)  
+* [[Github_Io]포스팅 시 Liquid 문법 사용하는 법](https://on-jungwoan.github.io/blog/liquid/)
+* [[Github_Io]상단 네비게이션 바 수정](https://on-jungwoan.github.io/blog/edit_navibar/)
+* [[Github_Io]상단 masthead 고정하기](https://on-jungwoan.github.io/blog/sticky/)    
+* [[Github_Io]Header Image 설정](https://on-jungwoan.github.io/blog/header/)   
+* [[Github_Io]포스트에 특정 문구 고정](https://on-jungwoan.github.io/blog/post_custom/)    
+* [[Jekyll]빌드 속도 최적화](https://on-jungwoan.github.io/blog/optim_jekyll/)        
+* [배포용 requirements.txt 생성 및 설치](https://on-jungwoan.github.io/web/export/)
+
+## Project
+
+* [[뻐정] 프로젝트 개선사항(수정중)](https://on-jungwoan.github.io/bbeojung/bj_update2/)
+* [[뻐정] 프로젝트 최종 요약](https://on-jungwoan.github.io/bbeojung/bbeojung/)  
+
+<br>
+<br>
+
+# 🕮 TIL
+## \<1주차\>
+  
+### 11/01
+
+* **업무지시**
+
+  업무지시 없음
+
+* **학습내용**
+
+  [1) [뻐정] 프로젝트 개선사항(수정중)](https://on-jungwoan.github.io/bbeojung/bj_update2/)
+
+### 11/02
+
+* **업무지시**
+
+  업무지시 없음
+
+* **학습내용**
+
+  [1) [뻐정] 프로젝트 최종 요약](https://on-jungwoan.github.io/bbeojung/bbeojung/)  
+
+### 11/03
+
+* **업무지시**
+
+  업무지시 없음
+
+* **학습내용**
+
+  [1) [Github_Io]상단 네비게이션 바 수정](https://on-jungwoan.github.io/blog/edit_navibar/)
+
+<br>  
+
+## \<2주차\>
+
+### 11/07
+
+* **업무지시**
+
+  업무지시 없음
+
+* **학습내용**
+
+  [1) [CSS] 폰트 관련 속성 정리](https://on-jungwoan.github.io/web/css_text/)
+
+### 11/08
+
+* **업무지시**
+
+  [11/08 업무지시](#1108-1)
+
+* **학습내용**
+
+  [1) [Django] Views.py 분리](https://on-jungwoan.github.io/web/split/)  
+
+  [2) [HTML, JavaScript]Input 태그 유효성 검사](https://on-jungwoan.github.io/web/test/)  
+
+### 11/09
+
+* **업무지시**
+
+  [11/09 업무지시](#1109-1)
+
+* **학습내용**
+
+  [1) [Django]secret 관리](https://on-jungwoan.github.io/web/secret/)
+
+  [2) [Django] 이미 존재하는 DB 연동 by inspectdb](https://on-jungwoan.github.io/web/inspectdb/)  
+
+
+### 11/10
+
+* **업무지시**
+
+  [11/10 업무지시](#1110-1)
+
+* **학습내용**
+
+  [1) [JQuery]AJAX를 활용한 비동기적 데이터 교환](https://on-jungwoan.github.io/web/ajax/)
+
+  [2) [Github_Io]포스팅 시 Liquid 문법 사용하는 법](https://on-jungwoan.github.io/blog/liquid/)
+
+  [3) 배포용 requirements.txt 생성 및 설치](https://on-jungwoan.github.io/web/export/)
+
+<br>  
+
+## \<3주차\>
+
+### 11/14
+
+* **업무지시**
+
+  [11/14 업무지시](#1114-1)
+
+* **학습내용**
+
+  [1) [Django]DRF(Django Rest Framework) 듀토리얼](https://on-jungwoan.github.io/web/drf/)  
+
+### 11/17
+
+* **업무지시**
+
+  업무지시 없음
+
+* **학습내용**
+
+  [1) [Github_Io]상단 masthead 고정하기](https://on-jungwoan.github.io/blog/sticky/)    
+
+### 11/18
+
+* **업무지시**
+
+  [11/18 업무지시](#1118-1)
+
+* **학습내용**
+
+  [1) [Github_Io]Header Image 설정](https://on-jungwoan.github.io/blog/header/)      
+
+<br>  
+
+## \<4주차\>
+
+### 11/21
+
+* **업무지시**
+
+  업무지시 없음
+
+* **학습내용**
+
+  [1) [Github_Io]포스트에 특정 문구 고정](https://on-jungwoan.github.io/blog/post_custom/)    
+
+### 11/22
+
+* **업무지시**
+
+  업무지시 없음
+
+* **학습내용**
+
+  [1) [CS231n]Image Classification](https://on-jungwoan.github.io/dl_study/cs231n_2/)      
+
+### 11/23
+
+* **업무지시**
+
+  업무지시 없음
+
+* **학습내용**
+
+  [1) [Jekyll]빌드 속도 최적화](https://on-jungwoan.github.io/blog/optim_jekyll/)        
+
+### 11/24
+
+* **업무지시**
+
+  업무지시 없음
+
+* **학습내용**
+
+  [1) [CS231n]Loss Functions and Optimization](https://on-jungwoan.github.io/dl_study/cs231n_3/)              
+
+<br>  
+
+## \<5주차\>
+
+### 11/28
+
+* **업무지시**
+
+  업무지시 없음
+
+* **학습내용**    
+
+  [1) [CS231n]Backpropagation and Neural Networks](https://on-jungwoan.github.io/dl_study/cs231n_4/)     
+
+### 11/30
+
+* **업무지시**
+
+  업무지시 없음
+
+* **학습내용**    
+
+  [1) [CS231n]Convolutional Neural Networks](https://on-jungwoan.github.io/dl_study/cs231n_5/)
+
+
+
+
+
+
+<br>
+<br>
+<br>
+
+# <2022. 10월 TIL>
+
+<br>
+
+# ✍ 학습내용 정리
+
+## Computer Vision
+
+* [CUDA Stream](https://on-jungwoan.github.io/dl_optim/cuda_stream/)  
+* [Activation Function, Optimizer](https://on-jungwoan.github.io/dl_study/activation_opt/)
+* [Pytorch To TensorRT Engine](https://on-jungwoan.github.io/dl_optim/tensorrt/)   
+* [TensorRT 모델에서 engine 모듈 추출하기](https://on-jungwoan.github.io/dl_optim/tensorrtengine/) 
+* [TensorRT vs TensorRT Engine vs Pytorch 연산속도 비교](https://on-jungwoan.github.io/dl_optim/trt_speed/)  
+* [Pytorch to TensorRT by torch2trt](https://on-jungwoan.github.io/cctv/torch2trt/)  
+* [TensorRT Engine 성능 비교](https://on-jungwoan.github.io/cctv/tensorrt_engine/)    
+* [PyQT에 넘겨줄 json 수정](https://on-jungwoan.github.io/cctv/modify_json/)
+* [테스트셋에 대해서 투기 검출률 높이기(1)](https://on-jungwoan.github.io/cctv/cctv_test/)  
+* [테스트셋에 대해서 투기 검출률 높이기(2)](https://on-jungwoan.github.io/cctv/cctv_test2/)  
+* [테스트셋에 대해서 투기 검출률 높이기(3)](https://on-jungwoan.github.io/cctv/cctv_test3/)  
+* [테스트셋 가공과정 자동화 : 사람이 탐지된 프레임만 추출](https://on-jungwoan.github.io/cctv/cctv_auto/)   
+* [TensorRT Engine Output Post-Treatment](https://on-jungwoan.github.io/cctv/engine_output/)   
+* [프로젝트 진행상황](https://on-jungwoan.github.io/cctv/project_prog/)
+* [1차 파인튜닝 모델 분석](https://on-jungwoan.github.io/cctv/md_speed/)  
+* [AI 개발 가이드 및 조언내용 정리](https://on-jungwoan.github.io/dl_study/summary/)  
+
+## ml
+
+* [[toy_project] 아파트 실거래가 예측 (1)](https://on-jungwoan.github.io/toy_project/apartpred/) 
+* [[toy_project] 아파트 실거래가 예측 (2)](https://on-jungwoan.github.io/toy_project/apartpred2/)   
+
+## web
+
+* [[Github_Io]Jekyll 로컬에서 디버그 하는 법](https://on-jungwoan.github.io/blog/debug_jekyll/)  
+* [프로젝트 개요 정리](https://on-jungwoan.github.io/canvas/setting_proj/)    
+* [Django 템플릿에서 src, href에 변수 불러오는 법](https://on-jungwoan.github.io/web/get_var/)   
+
+## etc
+
+* [argparse 사용법](https://on-jungwoan.github.io/python/argparse/) 
+* [[뻐정] 프로젝트 개선사항](https://on-jungwoan.github.io/bbeojung/change/)     
+* [[뻐정] 프로젝트 목표 개선사항](https://on-jungwoan.github.io/bbeojung/bj_update/)  
+* [Git 대용량 파일 push 방법 총정리](https://on-jungwoan.github.io/tools/bigfile_upload/)
+* [Window Docker 설치방법](https://on-jungwoan.github.io/tools/install_docker/) 
+
+<br>
+<br>
+
+# 🕮 TIL
+## \<1주차\>
+
+### 10/04
+
+* **업무지시**
+
+  [10/04 업무지시](#1004-1)
+
+* **학습내용**
+
+  [1) Activation Function, Optimizer](https://on-jungwoan.github.io/dl_study/activation_opt/)
+  
+  
+### 10/05
+
+* **업무지시**
+
+  [10/05 업무지시](#1005-1)
+
+* **학습내용**
+
+  [1) PyQT에 넘겨줄 json 수정](https://on-jungwoan.github.io/cctv/modify_json/)
+  
+### 10/06
+
+* **업무지시**
+
+  [10/06 업무지시](#1006-1)
+
+* **학습내용**
+
+  [1) 테스트셋에 대해서 투기 검출률 높이기(1)](https://on-jungwoan.github.io/cctv/cctv_test/)  
+
+### 10/07
+
+* **업무지시**
+
+  [10/07 업무지시](#1007-1)
+
+* **학습내용**
+
+  [1) 테스트셋에 대해서 투기 검출률 높이기(2)](https://on-jungwoan.github.io/cctv/cctv_test2/)  
+  
+  
+<br>  
+  
+## \<2주차\>
+
+### 10/11
+
+* **업무지시**
+
+  [10/11 업무지시](#1011-1)
+
+* **학습내용**
+
+  [1) Pytorch To TensorRT Engine](https://on-jungwoan.github.io/dl_optim/tensorrt/)   
+  
+  [2) 테스트셋에 대해서 투기 검출률 높이기(3)](https://on-jungwoan.github.io/cctv/cctv_test3/)  
+  
+### 10/12
+
+* **업무지시**
+
+  [10/12 업무지시](#1012-1)
+
+* **학습내용**
+
+  [1) 테스트셋 가공과정 자동화 : 사람이 탐지된 프레임만 추출](https://on-jungwoan.github.io/cctv/cctv_auto/)   
+  
+  [2) [뻐정] 프로젝트 목표 개선사항](https://on-jungwoan.github.io/bbeojung/bj_update/)   
+  
+### 10/13
+
+* **업무지시**
+
+  [10/13 업무지시](#1013-1)
+
+* **학습내용**
+
+  [1) argparse 사용법](https://on-jungwoan.github.io/python/argparse/) 
+  
+  [2) Pytorch to TensorRT by torch2trt](https://on-jungwoan.github.io/cctv/torch2trt/)  
+  
+  
+### 10/14
+
+* **업무지시**
+
+  [10/14 업무지시](#1014-1)
+
+* **학습내용**
+
+  [1) TensorRT 모델에서 engine 모듈 추출하기](https://on-jungwoan.github.io/dl_optim/tensorrtengine/) 
+  
+  [2) TensorRT Engine 성능 비교](https://on-jungwoan.github.io/cctv/tensorrt_engine/) 
+
+### 10/15
+
+* **업무지시**
+
+  주말인 관계로 업무지시 없음
+
+* **학습내용**
+
+  [1) [toy_project] 아파트 실거래가 예측 (1)](https://on-jungwoan.github.io/toy_project/apartpred/) 
+
+<br>  
+  
+## \<3주차\>
+
+### 10/17
+
+* **업무지시**
+
+  [10/17 업무지시](#1017-1)
+
+* **학습내용**
+
+  [1) TensorRT Engine Output Post-Treatment](https://on-jungwoan.github.io/cctv/engine_output/)   
+  
+
+### 10/18
+
+* **업무지시**
+
+  [10/18 업무지시](#1018-1)
+
+* **학습내용**
+
+  [1) TensorRT vs TensorRT Engine vs Pytorch 연산속도 비교](https://on-jungwoan.github.io/dl_optim/trt_speed/)     
+
+### 10/19
+
+* **업무지시**
+
+  [10/19 업무지시](#1019-1)
+
+* **학습내용**
+
+  [1) 프로젝트 진행상황](https://on-jungwoan.github.io/cctv/project_prog/)     
+
+  [2) [toy_project] 아파트 실거래가 예측 (2)](https://on-jungwoan.github.io/toy_project/apartpred2/)     
+
+### 10/21  
+
+* **업무지시**
+
+  [10/21 업무지시](#1021-1)
+
+* **학습내용**
+
+  [1) 프로젝트 개요 정리](https://on-jungwoan.github.io/canvas/setting_proj/)     
+
+  [2) Window Docker 설치방법](https://on-jungwoan.github.io/tools/install_docker/)  
+
+  [3) 1차 파인튜닝 모델 분석](https://on-jungwoan.github.io/cctv/md_speed/)  
+
+### 10/22
+
+* **업무지시**
+
+  주말인 관계로 업무지시 없음
+
+* **학습내용**
+
+  [1) [Github_Io]Jekyll 로컬에서 디버그 하는 법](https://on-jungwoan.github.io/blog/debug_jekyll/)   
+
+
+<br>  
+  
+## \<4주차\>
+
+### 10/24
+
+* **업무지시**
+
+  [10/24 업무지시](#1024-1)
+
+* **학습내용**
+
+  [1) [뻐정] 프로젝트 개선사항](https://on-jungwoan.github.io/bbeojung/change/)   
+
+### 10/25
+
+* **업무지시**
+
+  업무지시 없음
+
+* **학습내용**
+
+  [1) Git 대용량 파일 push 방법 총정리](https://on-jungwoan.github.io/tools/bigfile_upload/)
+
+### 10/26
+
+* **업무지시**
+
+  [10/26 업무지시](#1026-1)
+
+* **학습내용**
+
+  [1) AI 개발 가이드 및 조언내용 정리](https://on-jungwoan.github.io/dl_study/summary/)  
+
+### 10/28
+
+* **업무지시**
+
+  [10/28 업무지시](#1028-1)
+
+* **학습내용**
+
+  [1) Django 템플릿에서 src, href에 변수 불러오는 법](https://on-jungwoan.github.io/web/get_var/)    
+
+### 10/31
+
+* **업무지시**
+
+  업무지시 없음
+
+* **학습내용**
+
+  [1) CUDA Stream](https://on-jungwoan.github.io/dl/cuda_stream/)  
+
+
+
+
+
+
+
+
+
+<br>
+<br>
+<br>
+
+# <2022. 09월 TIL>
 
 <br>
 
@@ -291,10 +834,11 @@
 
 <br>
 <br>
+<br>
 
 # 업무지시 내용 정리
 
-----
+<br>
 
 # 9월
 ## 1주차
